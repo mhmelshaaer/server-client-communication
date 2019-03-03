@@ -1,5 +1,5 @@
 # server-client-communication
-A simple server-client architecture communication. You can find three versions of the server, a single message single client server, a multi message single client server and a multi message multi client serve
+A simple server-client architecture communication. You can find three versions of the server, a single message single client server, a multi message single client server and a multi message multi client server
 
 # How to use:
 I'm assuming that you will use Intellij editor
