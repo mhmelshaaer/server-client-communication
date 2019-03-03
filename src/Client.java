@@ -32,5 +32,11 @@ public class Client {
         clientSocket.close();
     }
 
+    public static void main(String[] args) throws IOException {
+        String server_ip = "127.0.0.1";
+        int port = 6666;
+        Client client = new Client(server_ip, port);
+        client.sendMessage("Hello server");
+    }
 
 }
